@@ -3,10 +3,10 @@
 ## Quick Overview
 Create react apps with basic components and a recommended project structure.
 
-### Basic components
+## Basic components
 - react-router-dom
 
-### Project structure
+## Project structure
 - common
 - components
 - config
@@ -15,23 +15,23 @@ Create react apps with basic components and a recommended project structure.
 - store
 - utils
 
-#### Common
+## Common
 Define your common items here
 - constants.js // Define your constants here
 
-#### Components
+## Components
 Define your re-usable components here
 
-#### Config
+## Config
 Define all your app config here using either "JSON" or "JS" files
 
-#### Pages
+## Pages
 Define your route components here
 
-### Rest
+## Rest
 Define all your API related stuff here.
 - RestApi.js // Define your rest API calls here
 
-### Others
+## Others
 - Utils.js // Define your utility functions here
 - store.js // Define your state-management items here
