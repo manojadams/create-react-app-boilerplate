@@ -5,11 +5,13 @@ Create react apps with basic components and a recommended project structure.
 
 ## Basic components
 - react-router-dom
+- eslint
 
 ## Project structure
 - common
 - components
 - config
+- hooks
 - pages
 - rest
 - store
@@ -25,11 +27,14 @@ Define your re-usable components here
 ## Config
 Define all your app config here using either "JSON" or "JS" files
 
+## Hooks
+Define all your reusable react app hooks here.
+
 ## Pages
 Define your route components here
 
 ## Rest
-Define all your API related stuff here.
+Define all your API-related stuff here.
 - RestApi.js // Define your rest API calls here
 
 ## Others
